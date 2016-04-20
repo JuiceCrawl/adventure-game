@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
+    "start": "node web.js"
   },
   "devDependencies": {
     "chai": "^3.0.0",
