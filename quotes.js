@@ -29,3 +29,4 @@ var server = http.createServer(
   })
 
 server.listen(1234)
+console.log('listening on http://localhost:1234')
